@@ -1,0 +1,90 @@
+.body{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(184, 179, 179) ;
+    
+    
+    
+.login-header{
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    width:500px;
+    margin:20px 5px 0 70px ;
+
+    
+}
+.form{
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width:400px;
+    margin: 30px 30px 10px 70px;
+    height: 700px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.form-header{
+    line-height: 25px;
+
+}
+.small-logo{
+    margin: 15px 0;
+}
+.form-header p{
+    font-size:12px;
+    margin-bottom: 10px;
+}
+
+.form-group input{
+    width: 200px;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+form button{
+    display:inline-block;
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+}
+.or{
+    margin: 15px 0 ;
+}
+#first{
+   background-color:  red;
+   color: white;
+}
+#second{
+    background-color: blue;
+    color: white;
+    font-size: 13px;
+}
+#third{
+    border: 1px solid grey;
+    font-size: 16px;
+    font-weight: 200;
+}
+.buttom{
+    margin-top: 20px;
+    line-height: 10px;
+    
+}
+.buttom p{
+    font-size: 12px;
+    line-height: 20px;
+    
+}
+.last-line h2{
+    margin-top: 50px;
+    
+}
+}
+
+
+

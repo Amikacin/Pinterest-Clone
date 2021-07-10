@@ -1,0 +1,96 @@
+.body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #b8b3b3;
+}
+
+.body .login-header {
+  font-size: 50px;
+  font-weight: 300;
+  color: white;
+  width: 500px;
+  margin: 20px 5px 0 70px;
+}
+
+.body .form {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: white;
+  width: 400px;
+  margin: 30px 30px 10px 70px;
+  height: 700px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.body .form-header {
+  line-height: 25px;
+}
+
+.body .small-logo {
+  margin: 15px 0;
+}
+
+.body .form-header p {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.body .form-group input {
+  width: 200px;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.body form button {
+  display: inline-block;
+  width: 200px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+.body .or {
+  margin: 15px 0;
+}
+
+.body #first {
+  background-color: red;
+  color: white;
+}
+
+.body #second {
+  background-color: blue;
+  color: white;
+  font-size: 13px;
+}
+
+.body #third {
+  border: 1px solid grey;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.body .buttom {
+  margin-top: 20px;
+  line-height: 10px;
+}
+
+.body .buttom p {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.body .last-line h2 {
+  margin-top: 50px;
+}
+/*# sourceMappingURL=signup.css.map */
